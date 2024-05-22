@@ -11,7 +11,7 @@ Bem-vindo ao EcoJump! Neste jogo, você controla um defensor do meio ambiente qu
 Requisitos:
 -----------
 1. Java Development Kit (JDK) instalado.
-2. Biblioteca JPlay (disponível em https://jplay.com.br ou pelo link direto: https://www.mediafire.com/file/847v6i3v24ffifi/JPlay.jar/file).
+2. Biblioteca JPlay (Link Direto: https://www.mediafire.com/file/847v6i3v24ffifi/JPlay.jar/file).
 
 Como Jogar:
 -----------
