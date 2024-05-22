@@ -29,7 +29,7 @@ Como Jogar:
 
 3. Interface do Jogo:
    - "Energia": Indica a energia restante do defensor.
-   - "Poluidores Eliminados": Mostra o número de criaturas poluentes eliminadas.
+   - "Eliminados": Mostra o número de criaturas poluentes eliminadas.
 
 Instruções de Instalação e Execução:
 -------------------------------------
