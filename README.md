@@ -32,3 +32,7 @@ Bem-vindo ao EcoJump! Neste jogo, você controla um defensor do meio ambiente qu
 3. Compile os arquivos.
 
 Contribua para um mundo mais limpo e saudável! Boa sorte e divirta-se!
+
+
+## Tela De Início
+![Tela De Inicio do EcoJump](APS/src/imagens/inicio.png)
