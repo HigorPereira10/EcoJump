@@ -35,4 +35,4 @@ Contribua para um mundo mais limpo e saudável! Boa sorte e divirta-se!
 
 
 ## Tela De Início
-![Tela De Inicio do EcoJump](APS/src/imagens/inicio.png)
+![Tela De Inicio do EcoJump](APS/src/recursos/imagens/inicio.png)
